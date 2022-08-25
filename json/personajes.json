@@ -1,0 +1,70 @@
+[
+    {
+        "nombre": "hanna",
+        "tipo": "mago",
+        "vida": 100,
+        "tipoDeDaño":"magia",
+        "daño" : 400,
+        "img" : "mago.jpg" 
+         
+    },
+    {
+        "nombre": "pathe",
+        "tipo": "luchador",
+        "vida": 150,
+        "tipoDeDaño":"cuerpo a cuerpo",
+        "daño" : 600,
+        "img" : "luchador.jpg" 
+    },
+    {
+        "nombre": "cart",
+        "tipo": "arquero",
+        "vida": 70,
+        "tipoDeDaño":"distancia",
+        "daño" : 800, 
+        "img" : "arquero.jpg" 
+
+    },
+    {
+        "nombre": "lord",
+        "tipo": "asesino",
+        "vida": 80,
+        "tipoDeDaño":"cuerpo a cuerpo",
+        "daño" : 760,
+        "img" : "asesino.jpg" 
+    },
+    {
+        "nombre": "lok",
+        "tipo": "tanque",
+        "vida": 200,
+        "tipoDeDaño":"cuerpo a cuerpo",
+        "daño" : 300,
+        "img" : "tanque.jpg" 
+    },
+    {
+        "nombre": "trupe",
+        "tipo": "luchador",
+        "vida": 160,
+        "tipoDeDaño":"cuerpo a cuerpo",
+        "daño" : 720,
+        "img" : "luchador2.jpg" 
+    },
+    {
+        "nombre": "locc",
+        "tipo": "mago",
+        "vida": 60,
+        "tipoDeDaño":"magia",
+        "daño" : 800,
+        "img" : "mago2.jpg" 
+    },
+    {
+        "nombre": "atre",
+        "tipo": "arquero",
+        "vida": 55,
+        "tipoDeDaño":"distancia",
+        "daño" : 1000,
+        "img" : "arquero2.jpg" 
+    }
+   
+  
+]
